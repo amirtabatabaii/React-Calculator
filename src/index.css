@@ -1,0 +1,54 @@
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+.background-white {
+    background-color: white;
+}
+
+.background-peru {
+    background-color: peru;
+}
+
+.background-black {
+    background-color: black;
+}
+
+.Rectangle1x1 {
+    width: 100px;
+    height: 100px;
+    box-sizing: border-box;
+    text-align: center;
+    line-height: 100px;
+}
+
+.font-black {
+    color: black;
+    font-size: 50px;
+}
+
+.font-white {
+    color: white;
+    font-size: 50px;
+}
+
+.display {
+    height: 100px;
+    text-align: right;
+    line-height: 100px;
+}
+
+.display p {
+    margin-right: 35px;
+}
+
+td {
+    border: 1px solid black;
+}
+
+p {
+    margin: 0;
+    cursor: pointer;
+    user-select: none;
+}
